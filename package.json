@@ -19,5 +19,8 @@
     "mongodb": "^6.1.0",
     "node-fetch": "^3.3.2",
     "node-telegram-bot-api": "^0.63.0"
+  },
+  "engines": {
+    "node": ">=14 <18.17.1"
   }
 }
