@@ -10,7 +10,7 @@ import Cookies from 'js-cookie';
 
 function App() {
 
-  const URL = 'http://localhost:5000';
+  const URL = 'https://weatherbotassessment.onrender.com';
 
   var [users, setUsers] = useState([]);
 

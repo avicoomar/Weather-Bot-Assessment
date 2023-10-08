@@ -136,12 +136,10 @@ setInterval(sendUpdate, 10000);
 
 //--------------------------------   TASK 2   -----------------------------
 // ADMIN CONSOLE:
-// Change Bot name: use Telegram Bot API URL to change name  like bot.setMyName("Tphri maa avicoomar");
+// Change Bot name: use Telegram Bot API URL to change name  like bot.setMyName("Some other name");
 // Block user: set isBlocked to true in my database
 // Delete user: delete entry from my database
 // Change token: will figure this out later
-
-//BC api ko restrict kaise karu??
 
 const express = require("express");
 const { google } = require("googleapis");
